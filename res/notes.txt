@@ -1,0 +1,16 @@
+**********************Notice************************************
+ unsigned int may not have the same size in different platforms 
+GLuint may not necessarily have the same size as unsigned int  
+															    
+															    
+															    
+															    
+The VBO and IBO will auto unbind when destructing			    
+Be careful when you use in functions and scopes                
+Remember bind VAO VBO IBO outside					
+**********************Control***********************************
+W/A/S/D:Movement 
+Space:Ascend
+Shift:Descend
+Esc:Quit
+**********************ERROR*LOG*********************************

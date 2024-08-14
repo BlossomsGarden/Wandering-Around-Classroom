@@ -1,0 +1,4 @@
+主要代码及头文件存放在src文夹下
+Model、Texture、Shader存放在res文件夹下
+库文件存放在vender文件夹下
+也可以点击本目录下的final.exe文件直接执行查看效果

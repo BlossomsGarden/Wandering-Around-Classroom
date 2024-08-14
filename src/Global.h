@@ -1,0 +1,17 @@
+#pragma once
+
+
+#define SCREEN_WIDTH  1920
+#define SCREEN_HEIGHT 1080
+
+
+#define SHADOWMAP_WIDTH		4096
+#define SHADOWMAP_HEIGHT	4096
+
+#define PI	3.1415926f
+
+#define DEFAULT_TEXTURE_PATH	"res/Textures/Default.jpg"
+
+#define OPENGL_TEXTURE_SLOT_NUM		32
+
+#define ERROR_COMPILE_SHADER_FAILURE     0
